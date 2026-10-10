@@ -1,6 +1,6 @@
 cask "colon" do
-  version "0.5.0"
-  sha256 "05b9b71abb7aee7ea68d2fbefc51a139d4a1fc31a7a14f55f12b2f22a3a89d80"
+  version "0.6.0"
+  sha256 "3a4dce6c28883cfb319fb9c5dd82884ebaa849911105c22e3811c5529eb681ea"
 
   url "https://github.com/Syfraxing/Colon/releases/download/v#{version}/Colon-#{version}.dmg"
   name "Colon"
